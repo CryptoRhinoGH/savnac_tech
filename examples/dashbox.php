@@ -1,0 +1,1 @@
+<div class="col-xl-4 col-lg-12"><div class="card card-chart"><div class="card-header card-header-success"></div><div class="card-body"><h4 class="card-title">'. $courseName . '</h4><p class="card-category"></div><div class="card-footer"></div></div></div>'
